@@ -4,7 +4,7 @@ go 1.25.3
 
 require (
 	github.com/hkwi/mtlsauthextension v0.0.0-20251028040334-4744d50d034e
-	go.opentelemetry.io/collector/client v1.44.0
+	go.opentelemetry.io/collector/client v1.59.0
 	go.opentelemetry.io/collector/component v1.59.0
 	go.opentelemetry.io/collector/consumer v1.59.0
 	go.opentelemetry.io/collector/pdata v1.59.0
